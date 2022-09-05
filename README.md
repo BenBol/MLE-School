@@ -1,2 +1,1 @@
-# MLE-Days
-
+# Material for the MLE-School 2022
