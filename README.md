@@ -10,7 +10,9 @@ The goal of this workshop is to provide an insight into deep learning on the use
 To participate, a Laptop with an installation of [*Anaconda*](https://www.anaconda.com/) is the most useful choice. So please install it according to the instructions on their website.
 
 Alternatively, a participation in Google Colab is possible. 
+
 [**COLAB Engl.**](https://colab.research.google.com/github/BenBol/MLE-School/blob/main/Workshop_english.ipynb)
+
 [**COLAB Germ.**](https://colab.research.google.com/github/BenBol/MLE-School/blob/main/Workshop_Germ.ipynb)
 
 For local participation, download the material by opening a **Terminal** (**Anaconda Promt** on Windows) and copy the material in a folder. 
