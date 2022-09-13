@@ -1,0 +1,17 @@
+name: MLE-Hands-On-III
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - pandas
+  - IPython
+  - Jupyter
+  - opencv
+  - matplotlib
+  - scikit-learn
+  - pip:
+    - imutils
+    - tensorflow
+
