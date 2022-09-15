@@ -15,7 +15,7 @@ Alternatively, a participation in Google Colab is possible.
 
 [**COLAB Germ.**](https://colab.research.google.com/github/BenBol/MLE-School/blob/main/Workshop_Germ.ipynb)
 
-For local participation, download the material by opening a **Terminal** (**Anaconda Promt** on Windows) and copy the material in a folder. 
+For local participation, download the material from Github or opening a **Terminal** (**Anaconda Promt** on Windows) and copy the material via **Git**. 
 
 ```bash
 git clone https://github.com/BenBol/MLE-School.git
@@ -37,6 +37,12 @@ Use the following command to activate the workshop environment.
 
 ```bash
 conda activate MLE-Hands-On-III
+```
+
+Finally start jupyter notebook for participating in the excercise. 
+
+```bash
+jupyter notebook
 ```
 
 ## Removing the data
